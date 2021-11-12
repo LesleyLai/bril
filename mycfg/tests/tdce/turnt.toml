@@ -1,0 +1,1 @@
+command = "bril2json < {filename} | python ../../mycfg/trivial_dead_code_elimination.py | bril2txt"
